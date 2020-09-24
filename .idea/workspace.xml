@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2df16911-d41c-4017-b76e-31b839962001" name="Default Changelist" comment="" />
+    <list default="true" id="2df16911-d41c-4017-b76e-31b839962001" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +32,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hxtZCWzXsD5xV9GweMunDzIAPe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,7 +40,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
@@ -105,12 +116,32 @@
       <option name="presentableId" value="Default" />
       <updated>1600964624010</updated>
     </task>
+    <task id="LOCAL-00001" summary="MI PRIMER COMMIT">
+      <created>1600965008652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600965008653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MI PRIMER COMMIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="MI PRIMER COMMIT" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="400" y="23" key="CommitChangelistDialog2" timestamp="1600964907839">
+    <state x="400" y="23" key="CommitChangelistDialog2" timestamp="1600965002822">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="400" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1600964907839" />
+    <state x="400" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1600965002822" />
+    <state x="579" y="170" key="FileChooserDialogImpl" timestamp="1600965903215">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="170" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1600965903215" />
+    <state x="392" y="150" key="Vcs.Push.Dialog.v2" timestamp="1600965040166">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="150" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1600965040166" />
   </component>
 </project>
