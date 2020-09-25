@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Pasar">Move on to the next Activity</string>
+    <string name="Bienvenido">Welcome click to get started</string>
+    <string name="salir">Exit</string>
+    <string name="pregunta">Do you want to exit the application ?</string>
+    <string name="SI">YES</string>
+    <string name="persona">person</string>
+    <string name="carro">car</string>
+    <string name="dinero">money</string>
+
+</resources>

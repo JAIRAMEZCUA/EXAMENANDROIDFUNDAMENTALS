@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Pasar">Passer à la prochaine activité</string>
+    <string name="Bienvenido">Cliquez sur Bienvenue pour commencer</string>
+    <string name="salir">Sors</string>
+    <string name="pregunta">Voulez-vous quitter l’application ?</string>
+    <string name="SI">Oui</string>
+    <string name="persona">Personne</string>
+    <string name="carro">Voiture</string>
+    <string name="dinero">Argent</string>
+
+
+</resources>

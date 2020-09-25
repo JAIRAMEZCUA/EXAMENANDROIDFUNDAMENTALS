@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">ExamenAPP</string>
+    <string name="app_name" translatable="false">ExamenAPP</string>
+    <string name="Pasar">Pasar a la siguiente Actividad</string>
+    <string name="Bienvenido">Bienvenido de click para comenzar</string>
+    <string name="salir">Salir</string>
+    <string name="pregunta">Desea salir de la aplicacion ?</string>
+    <string name="SI">SI</string>
+    <string name="persona">persona</string>
+    <string name="carro">carro</string>
+
+    <string name="dinero">dinero</string>
+
+
 </resources>

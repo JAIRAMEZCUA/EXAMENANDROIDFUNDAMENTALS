@@ -7,12 +7,12 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
+        android:id="@+id/btnpasar"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginStart="181dp"
-        android:layout_marginEnd="142dp"
-        android:text="Button"
+        android:background="#FF1414"
+        android:text="@string/Pasar"
+        android:textColor="@android:color/background_light"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -28,6 +28,19 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.402"
-        app:srcCompat="@drawable/ic_launcher_foreground" />
+        />
+
+    <Button
+        android:id="@+id/btnsalir"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@android:color/background_dark"
+        android:shadowColor="@color/colorPrimaryDark"
+        android:text="@string/salir"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnpasar" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
