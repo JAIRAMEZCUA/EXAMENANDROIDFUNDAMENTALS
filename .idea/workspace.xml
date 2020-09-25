@@ -7,30 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2df16911-d41c-4017-b76e-31b839962001" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/Fuentes/nuevo.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/naat/examenapp/Datos/Imagenabs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/naat/examenapp/MainActivity3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_accessibility_new_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_airport_shuttle_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-en-rUS/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-fr-rFR/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/naat/examenapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/naat/examenapp/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/naat/examenapp/MainActivity2.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/naat/examenapp/MainActivity2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_main2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_main2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,13 +160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600974048377</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="INTERFACE">
+      <created>1601005231991</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601005231991</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="MI PRIMER COMMIT" />
-    <option name="LAST_COMMIT_MESSAGE" value="MI PRIMER COMMIT" />
+    <MESSAGE value="INTERFACE" />
+    <option name="LAST_COMMIT_MESSAGE" value="INTERFACE" />
   </component>
   <component name="WindowStateProjectService">
     <state x="452" y="148" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601002987403">
@@ -206,9 +191,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="541" y="177" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1600998648650" />
-    <state x="400" y="23" key="CommitChangelistDialog2" timestamp="1600974061437">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="342" y="0" key="CommitChangelistDialog2" timestamp="1601005225829">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="342" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601005225829" />
     <state x="400" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1600974061437" />
     <state x="494" y="144" key="FileChooserDialogImpl" timestamp="1601003823833">
       <screen x="0" y="0" width="1366" height="728" />
@@ -219,9 +205,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="150" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1600966032176" />
-    <state width="429" height="108" key="javadoc.popup.new" timestamp="1601004905310">
+    <state width="429" height="108" key="javadoc.popup.new" timestamp="1601005260729">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="429" height="108" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1601004905310" />
+    <state width="429" height="108" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1601005260729" />
   </component>
 </project>
