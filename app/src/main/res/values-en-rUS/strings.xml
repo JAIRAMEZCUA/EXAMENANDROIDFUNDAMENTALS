@@ -9,5 +9,6 @@
     <string name="persona">person</string>
     <string name="carro">car</string>
     <string name="dinero">money</string>
+    <string name="regresa">back</string>
 
 </resources>

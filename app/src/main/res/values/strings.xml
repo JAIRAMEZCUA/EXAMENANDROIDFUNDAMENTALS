@@ -7,8 +7,8 @@
     <string name="SI">SI</string>
     <string name="persona">persona</string>
     <string name="carro">carro</string>
-
     <string name="dinero">dinero</string>
+    <string name="regresa">regresar</string>
 
 
 </resources>

@@ -7,7 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2df16911-d41c-4017-b76e-31b839962001" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_main2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_main2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-en-rUS/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-en-rUS/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-fr-rFR/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-fr-rFR/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601005231991</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="INTERFACE">
+      <created>1601005283248</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601005283248</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -191,23 +204,24 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="541" y="177" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1600998648650" />
-    <state x="342" y="0" key="CommitChangelistDialog2" timestamp="1601005225829">
+    <state x="342" y="0" key="CommitChangelistDialog2" timestamp="1601005280222">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="342" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601005225829" />
+    <state x="342" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601005280222" />
     <state x="400" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1600974061437" />
     <state x="494" y="144" key="FileChooserDialogImpl" timestamp="1601003823833">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="494" y="144" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601003823833" />
     <state x="579" y="170" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1600966176131" />
-    <state x="392" y="150" key="Vcs.Push.Dialog.v2" timestamp="1600966032176">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="392" y="150" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1600966032176" />
-    <state width="429" height="108" key="javadoc.popup.new" timestamp="1601005260729">
+    <state x="335" y="127" key="Vcs.Push.Dialog.v2" timestamp="1601005287358">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="429" height="108" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1601005260729" />
+    <state x="335" y="127" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601005287358" />
+    <state x="392" y="150" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1600966032176" />
+    <state width="429" height="108" key="javadoc.popup.new" timestamp="1601005906428">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="429" height="108" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1601005906428" />
   </component>
 </project>
