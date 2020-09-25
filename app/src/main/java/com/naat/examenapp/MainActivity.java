@@ -23,6 +23,26 @@ public class MainActivity extends AppCompatActivity {
 
     Button button,btnsalir;
     ImageView im;
+
+    @Override
+    protected void onSaveInstanceState(@NonNull Bundle outState) {
+        super.onSaveInstanceState(outState);
+
+    }
+
+    @Override
+    protected void onRestoreInstanceState(@NonNull Bundle savedInstanceState) {
+        super.onRestoreInstanceState(savedInstanceState);
+
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        cargar();
+
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -30,10 +50,10 @@ public class MainActivity extends AppCompatActivity {
         button=findViewById(R.id.btnpasar);
         btnsalir=findViewById(R.id.btnsalir);
         im=findViewById(R.id.imageView);
+
         if(savedInstanceState !=null){
-
+            cargar();
         }
-
 
         button.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -75,11 +95,10 @@ public class MainActivity extends AppCompatActivity {
     }
     public  void cargar(){
         SharedPreferences sharedPreferences= getSharedPreferences("llaveimagen",MODE_PRIVATE);
-        int index=sharedPreferences.getInt("imagen",0);
-        im.setImageResource(listaImagenes[index].getImageResource());
-        Toast toast1 = Toast.makeText(getApplicationContext(),index, Toast.LENGTH_SHORT);
-        toast1.setGravity(Gravity.CENTER,0,0);
-        toast1.show();
+        im.setImageResource(listaImagenes[sharedPreferences.getInt("imagen",0)].getImageResource());
+       //Toast toast1 = Toast.makeText(getApplicationContext(),index, Toast.LENGTH_SHORT);
+        //toast1.setGravity(Gravity.CENTER,0,0);
+       // toast1.show();
     }
     /*
     @Override

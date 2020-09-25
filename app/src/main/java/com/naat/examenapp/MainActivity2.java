@@ -137,5 +137,6 @@ public class MainActivity2 extends AppCompatActivity {
         SharedPreferences.Editor editor=sharedPreferences.edit();
         editor.putInt("imagen",index);
         editor.commit();
+        finish();
     }
 }
